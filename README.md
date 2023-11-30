@@ -2,6 +2,8 @@
 
 POWER BI ROAD ACCIDENT ANALYSIS IN UNITED KINGDOM
 Dataset Link: https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
+
+
 **Requirement Gathering:**
 Stakeholders in the project (who are users of this dashboard)
 Raw Data Overview
@@ -14,7 +16,9 @@ Data visualization and chart design
 Report and dashboard building
 Insights
 
+
 **REQUIREMNT**
+
 Clients wants to create a Road Accident Dashboard for year 2021 and 2022,so that they can have insight on below requirements
 
 1. Primary KPI - total casualities and total accident values for current year and Yoy growth
